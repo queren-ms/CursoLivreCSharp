@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\queren.msantiago\\Documents\\Visual Studio 2022\\EmpresaCLivre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43F610BA-F8CA-4E51-B634-1E7EE2B30954}|GerenciarPessoas\\GerenciarPessoas.csproj|c:\\users\\queren.msantiago\\documents\\visual studio 2022\\empresaclivre\\gerenciarpessoas\\frmbuscapessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F610BA-F8CA-4E51-B634-1E7EE2B30954}|GerenciarPessoas\\GerenciarPessoas.csproj|solutionrelative:gerenciarpessoas\\frmbuscapessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F610BA-F8CA-4E51-B634-1E7EE2B30954}|GerenciarPessoas\\GerenciarPessoas.csproj|c:\\users\\queren.msantiago\\documents\\visual studio 2022\\empresaclivre\\gerenciarpessoas\\frmcadpessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F610BA-F8CA-4E51-B634-1E7EE2B30954}|GerenciarPessoas\\GerenciarPessoas.csproj|solutionrelative:gerenciarpessoas\\frmcadpessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F610BA-F8CA-4E51-B634-1E7EE2B30954}|GerenciarPessoas\\GerenciarPessoas.csproj|c:\\users\\queren.msantiago\\documents\\visual studio 2022\\empresaclivre\\gerenciarpessoas\\frmbuscapessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43F610BA-F8CA-4E51-B634-1E7EE2B30954}|GerenciarPessoas\\GerenciarPessoas.csproj|solutionrelative:gerenciarpessoas\\frmbuscapessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F610BA-F8CA-4E51-B634-1E7EE2B30954}|GerenciarPessoas\\GerenciarPessoas.csproj|c:\\users\\queren.msantiago\\documents\\visual studio 2022\\empresaclivre\\gerenciarpessoas\\frmcadpessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43F610BA-F8CA-4E51-B634-1E7EE2B30954}|GerenciarPessoas\\GerenciarPessoas.csproj|solutionrelative:gerenciarpessoas\\frmcadpessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F610BA-F8CA-4E51-B634-1E7EE2B30954}|GerenciarPessoas\\GerenciarPessoas.csproj|c:\\users\\queren.msantiago\\documents\\visual studio 2022\\empresaclivre\\gerenciarpessoas\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F610BA-F8CA-4E51-B634-1E7EE2B30954}|GerenciarPessoas\\GerenciarPessoas.csproj|solutionrelative:gerenciarpessoas\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBuscaPessoas.cs",
+              "DocumentMoniker": "C:\\Users\\queren.msantiago\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\frmBuscaPessoas.cs",
+              "RelativeDocumentMoniker": "GerenciarPessoas\\frmBuscaPessoas.cs",
+              "ToolTip": "C:\\Users\\queren.msantiago\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\frmBuscaPessoas.cs",
+              "RelativeToolTip": "GerenciarPessoas\\frmBuscaPessoas.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswB8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T19:46:14.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBuscaPessoas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\queren.msantiago\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\frmBuscaPessoas.cs",
+              "RelativeDocumentMoniker": "GerenciarPessoas\\frmBuscaPessoas.cs",
+              "ToolTip": "C:\\Users\\queren.msantiago\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\frmBuscaPessoas.cs [Design]",
+              "RelativeToolTip": "GerenciarPessoas\\frmBuscaPessoas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T19:18:53.827Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCadPessoas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\queren.msantiago\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\frmCadPessoas.cs",
+              "RelativeDocumentMoniker": "GerenciarPessoas\\frmCadPessoas.cs",
+              "ToolTip": "C:\\Users\\queren.msantiago\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\frmCadPessoas.cs [Design]",
+              "RelativeToolTip": "GerenciarPessoas\\frmCadPessoas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:11:03.51Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCadPessoas.cs",
+              "DocumentMoniker": "C:\\Users\\queren.msantiago\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\frmCadPessoas.cs",
+              "RelativeDocumentMoniker": "GerenciarPessoas\\frmCadPessoas.cs",
+              "ToolTip": "C:\\Users\\queren.msantiago\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\frmCadPessoas.cs",
+              "RelativeToolTip": "GerenciarPessoas\\frmCadPessoas.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:20:55.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\queren.msantiago\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\Pessoa.cs",
+              "RelativeDocumentMoniker": "GerenciarPessoas\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\queren.msantiago\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\Pessoa.cs",
+              "RelativeToolTip": "GerenciarPessoas\\Pessoa.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:14:01.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
